@@ -139,7 +139,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
     return Scaffold(
       // backgroundColor: Colors.white10,
       appBar: AppBar(
-        title: Text("Basic Calculator"),
+        title: Text("Calculator"),
         centerTitle: true,
         // backgroundColor: Colors.white10,
       ),

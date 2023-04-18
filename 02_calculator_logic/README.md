@@ -1,10 +1,9 @@
-# Calculator UI
+# Calculator Logic
 
-**Task:**
-Please train your UI skills by developing a simple calculator UI. No need for logic right now,
-that's for a next assignment. You know how a calculator app should look like, so just give it a try
-;)
+**Task 2:**
+Please write the logic to the calculator that will support basic operations (+-*/) with 2 real numbers.
+Please be mindful of the MVC pattern and don't write logic into the UI classes.
 
 ## Screenshot
 
-<img src="screenshot.png" alt="Screenshot" width="300"/>
+<img src="2_calculator-logic.gif" alt="Screenshot" width="300"/>
