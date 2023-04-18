@@ -1,20 +1,20 @@
 import 'package:flutter/material.dart';
+import 'screens/calculator_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Basic Calculator UI',
+      title: 'Flutter Calculator',
       theme: ThemeData(
-        primarySwatch: Colors.teal,
+        brightness: Brightness.dark, // Set the brightness to dark
       ),
-      home: const CalculatorScreen(),
+      debugShowCheckedModeBanner: false,
+      home: CalculatorScreen(),
     );
   }
 }
