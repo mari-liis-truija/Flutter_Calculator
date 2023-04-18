@@ -1,9 +1,8 @@
-# Calculator Logic
+# Kilometer to Mile converter
 
-**Task 2:**
-Please write the logic to the calculator that will support basic operations (+-*/) with 2 real numbers.
-Please be mindful of the MVC pattern and don't write logic into the UI classes.
+**Task 3:**
+Please add on a separate screen a kilometer to mile converter. The main calculator screen should have an element that would allow to navigate to that screen (and back)
 
 ## Screenshot
 
-<img src="2_calculator-logic.gif" alt="Screenshot" width="300"/>
+<img src="3_km_to_mile_converter.gif" alt="Screenshot" width="300"/>

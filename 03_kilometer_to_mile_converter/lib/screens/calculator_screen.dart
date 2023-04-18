@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../widgets/calculator_button.dart';
+import 'km_to_mile_screen.dart';
 
 class CalculatorScreen extends StatefulWidget {
   @override
@@ -139,9 +140,18 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
     return Scaffold(
       // backgroundColor: Colors.white10,
       appBar: AppBar(
-        title: Text("Calculator"),
-        centerTitle: true,
-        // backgroundColor: Colors.white10,
+        title: Text('Calculator'),
+        actions: [
+          IconButton(
+            icon: Icon(Icons.swap_horiz),
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (_) => KmToMileScreen()),
+              );
+            },
+          ),
+        ],
       ),
       body: Column(
         children: [
