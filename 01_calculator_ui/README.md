@@ -7,4 +7,4 @@ that's for a next assignment. You know how a calculator app should look like, so
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+<img src="screenshot.png" alt="Screenshot" width="300"/>
