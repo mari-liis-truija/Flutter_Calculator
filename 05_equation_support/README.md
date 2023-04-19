@@ -1,4 +1,4 @@
-# History and persistence
+# Equation support
 
 **Task 5:**
 The calculator so far is good only for 2 numbers. Please add equation support - i.e. 5+6/2 = 8. The history must still record the equation and its result as previously.
