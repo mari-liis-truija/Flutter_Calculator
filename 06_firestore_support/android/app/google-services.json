@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450377116968",
+    "project_id": "fluttercalculatoreek2023",
+    "storage_bucket": "fluttercalculatoreek2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450377116968:android:06c50923aff06d6d0ef41d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450377116968-dkq2s5v06pls9l2mifj75didicu7e6pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFjYg9ledSDDu4DFoaPwe6FMWcHxqKoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450377116968-dkq2s5v06pls9l2mifj75didicu7e6pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
