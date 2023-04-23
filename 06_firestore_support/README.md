@@ -11,6 +11,14 @@ Adding Firestore - 7 points
 
 Managing security rules - 5 points
 
-## Screenshot
+## Done steps
 
-<img src="6_firestore_suppprt" alt="Screenshot" width="300"/>
+1. Create new Firebase Project (FlutterCalculatorEEK2023)
+2. Install Firebase CLI + NodeJS
+   1. Download Node.js 
+   2. run cmd "npm install -g firebase tools
+3. Login to firebase, cmd "firebase login"
+4. Activate FlutterFire_CLI
+   1. dart pub global activate flutterfire_cli
+   2. flutterfire configure --fluttercalculatoreek2023
+5. Connect project with firebase

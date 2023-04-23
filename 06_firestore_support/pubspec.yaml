@@ -16,8 +16,11 @@ dependencies:
 #  intl: 0.18.1
   math_expressions: 2.4.0
   firebase_core: ^2.9.0
-  firebase_auth: ^4.4.0
+  firebase_auth: ^4.4.2
   cloud_firestore: ^4.5.0
+  font_awesome_flutter: ^10.4.0
+  flutter_auth_buttons: ^0.10.0
+  github_login: ^0.0.2
 
 dev_dependencies:
   flutter_test:
